@@ -1,0 +1,18 @@
+﻿@model SoppingCartModel
+@*@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+@inject SignInManager<IdentityUser> SignInManager*@
+
+@if (Model.Cart.ShoppingCartItems.Count > 0)
+{
+    <li>
+        <a asp-controller="ShoppingCart">
+            <span class="glyphicon glyphicon-shopping-cart"></span>
+            <span id="cart-status">
+                @Model.Cart.ShoppingCartItems.Count
+            </span>
+        </a>
+    </li>
+}
+

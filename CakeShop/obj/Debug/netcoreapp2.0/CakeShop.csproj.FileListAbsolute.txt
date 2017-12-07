@@ -1,0 +1,11 @@
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.csprojResolveAssemblyReference.cache
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.csproj.CoreCompileInputs.cache
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.AssemblyInfoInputs.cache
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.AssemblyInfo.cs
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.deps.json
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.runtimeconfig.json
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.runtimeconfig.dev.json
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.dll
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.pdb
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.dll
+C:\Users\Petkovic\Desktop\CakeShop-core\CakeShop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.pdb
